@@ -70,3 +70,6 @@ ul{
 .main__cars-item:first-of-type{
     grid-row: span 2;
 }
+body{
+    background: rgba(10, 85, 126, 0.629);
+}
